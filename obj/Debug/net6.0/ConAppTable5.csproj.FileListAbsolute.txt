@@ -12,3 +12,4 @@ C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\obj
 C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ConAppTable5.pdb
 C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ConAppTable5.genruntimeconfig.cache
 C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ref\ConAppTable5.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ConAppTable5.sourcelink.json
