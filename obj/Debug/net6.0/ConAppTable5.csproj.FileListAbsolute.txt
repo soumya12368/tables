@@ -1,0 +1,14 @@
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\bin\Debug\net6.0\ConAppTable5.exe
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\bin\Debug\net6.0\ConAppTable5.deps.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\bin\Debug\net6.0\ConAppTable5.runtimeconfig.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\bin\Debug\net6.0\ConAppTable5.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\bin\Debug\net6.0\ConAppTable5.pdb
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ConAppTable5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ConAppTable5.AssemblyInfoInputs.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ConAppTable5.AssemblyInfo.cs
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ConAppTable5.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ConAppTable5.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\refint\ConAppTable5.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ConAppTable5.pdb
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ConAppTable5.genruntimeconfig.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day4\ConAppTable5\ConAppTable5\obj\Debug\net6.0\ref\ConAppTable5.dll
